@@ -3,7 +3,7 @@
 Java Rabbit Reproduction Simulation
 
 Author: Wei Zhong Tee 
-Last Updated: 1 September 2020 
+Last Updated: 17 February 2020 
 Project type: Object Oriented Programming with Java
 
 This is a basic object oriented program that simulates how many male and female rabbits will exist after a year given a start amount of male and female rabbits at the beginning for the year (passed in through the text file, where the text file is formatted as <number of females>[tab]<number of males> and multiple lines can be added for multiple simulations to run). The simulation is ran 10 times for each set of numbers in the text file and the average number of rabbits, female rabbits, male rabbits and their standard deviations are shown.
